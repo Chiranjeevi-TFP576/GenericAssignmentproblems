@@ -1,0 +1,15 @@
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.csproj.AssemblyReference.cache
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.AssemblyInfoInputs.cache
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.AssemblyInfo.cs
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\bin\Debug\net6.0\NewGenericDemo.exe
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\bin\Debug\net6.0\NewGenericDemo.deps.json
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\bin\Debug\net6.0\NewGenericDemo.runtimeconfig.json
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\bin\Debug\net6.0\NewGenericDemo.dll
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\bin\Debug\net6.0\NewGenericDemo.pdb
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.dll
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\refint\NewGenericDemo.dll
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.pdb
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\NewGenericDemo.genruntimeconfig.cache
+D:\Bridgelabs\NewGenericDemo\NewGenericDemo\obj\Debug\net6.0\ref\NewGenericDemo.dll
